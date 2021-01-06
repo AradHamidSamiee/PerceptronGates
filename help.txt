@@ -1,0 +1,6 @@
+
+o --------------------- TRON --------------------- o
+|                                                  |
+| a simple implementation of Perceptron neural net |
+|                                                  |
+o ------------------------------------------------ o
